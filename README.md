@@ -24,6 +24,10 @@ A short video demo of the complete project:
 
 
 
+https://user-images.githubusercontent.com/112818778/220333363-2ea711e2-ea32-4482-974d-b0ea87eafc66.mp4
+
+
+
 
 
 
@@ -34,6 +38,17 @@ A short video demo of the complete project:
 ## Screenshots
 
 A couple of Screenshots:
+
+
+
+<img width="581" alt="t1" src="https://user-images.githubusercontent.com/112818778/220333405-ccdda72e-c900-41d1-bf1b-309673d9b660.png">
+
+
+
+
+<img width="596" alt="t2" src="https://user-images.githubusercontent.com/112818778/220333471-6805cf34-3f2c-47f2-9e22-53e26cec5cbf.png">
+
+
 
 
 
